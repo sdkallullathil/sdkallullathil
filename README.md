@@ -1,8 +1,10 @@
-<h1>Hi, I'm Sangeeth! <br/> <a href="https://www.linkedin.com/in/sangeeth-das-kallullathil/">Cybersecurity Professional</a></h1>
+<h1>Sangeeth Das Kallullathil, PhD  </h1>
+
+<h2><a href="https://www.linkedin.com/in/sangeeth-das-kallullathil/">Cybersecurity Professional</a></h2>
 
 <h2>👨‍💻   Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>An AWS Simulated Hybrid Cloud Architecture with Site-to-Site VPN </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
