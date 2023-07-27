@@ -6,7 +6,7 @@
 
 - <b>[An AWS Simulated Hybrid Cloud Architecture with Site-to-Site VPN](https://github.com/sdkallullathil/capstone_project#capstone-project) </b>
 <br/>
-<img src="https://github.com/sdkallullathil/capstone_project/blob/de87e83cdc7718d5c5381357c80e68bd83639d1a/Presentation1.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sdkallullathil/sdkallullathil/blob/e970bafea2a7e8eafae72a7ba9ea99e5ba46122e/project.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
