@@ -10,6 +10,12 @@
 <br />
 <br />
 
+- <b>[File Integrity Monitor - A PowerShell Project](https://github.com/sdkallullathil/Powershell_project/blob/main/README.md) </b>
+<br/>
+<img src="https://github.com/sdkallullathil/sdkallullathil/blob/e970bafea2a7e8eafae72a7ba9ea99e5ba46122e/project.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 <h2> 🤳 Connect with me:</h2>
 
 
