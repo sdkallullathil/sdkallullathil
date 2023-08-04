@@ -3,6 +3,8 @@
 <h2><a href="https://www.linkedin.com/in/sangeeth-das-kallullathil/">Cybersecurity Professional</a></h2>
 
 <h2>👨‍💻   Cybersecurity Projects:</h2>
+<br />
+<br />
 
 1. <b>[An AWS Simulated Hybrid Cloud Architecture with Site-to-Site VPN](https://github.com/sdkallullathil/capstone_project#capstone-project) </b>
 <br/>
