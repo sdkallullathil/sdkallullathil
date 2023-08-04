@@ -12,7 +12,7 @@
 
 - <b>[File Integrity Monitor - A PowerShell Project](https://github.com/sdkallullathil/Powershell_project/blob/main/README.md) </b>
 <br/>
-<img src="https://github.com/sdkallullathil/sdkallullathil/blob/e970bafea2a7e8eafae72a7ba9ea99e5ba46122e/project.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sdkallullathil/sdkallullathil/blob/dfb907c69443a2cd90c222335b556aaf4fc80186/cover.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
