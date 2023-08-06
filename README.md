@@ -6,24 +6,20 @@
 <br />
 <br />
 
- <b>[1. An AWS Simulated Hybrid Cloud Architecture with Site-to-Site VPN](https://github.com/sdkallullathil/capstone_project#capstone-project) </b>
-<br/> <br/>
+ <h3><a href="https://github.com/sdkallullathil/capstone_project#capstone-project/"> 1. An AWS Simulated Hybrid Cloud Architecture with Site-to-Site VPN</a></h3>
 <a href="https://github.com/sdkallullathil/capstone_project#capstone-project"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/e970bafea2a7e8eafae72a7ba9ea99e5ba46122e/project.png" height="90%" width="90%" alt="Disk Sanitization Steps"/> </a>
 <br />
 <br />
-<br />
-<br />
 
- <b>[2. Securing Password: Strengthening Data Protection with OpenSSL in Kali Linux](https://github.com/sdkallullathil/Encription_OpenSSL/tree/main#readme) </b>
-<br/><br/>
+ <h3><a href="https://github.com/sdkallullathil/Encription_OpenSSL/tree/main#readme"> 2. Securing Password: Strengthening Data Protection with OpenSSL in Kali Linux</a></h3>
+
 <a href="https://github.com/sdkallullathil/Encription_OpenSSL/tree/main#readme"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/36fcd0457ad5cd781f161a543c32bed36bc8fa7d/crypto.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
-
- <b>[3. File Integrity Monitor - A PowerShell Project](https://github.com/sdkallullathil/Powershell_project/blob/main/README.md) </b>
-<br/><br/>
+ <h3><a href="https://github.com/sdkallullathil/Powershell_project/blob/main/README.md"> 3. File Integrity Monitor - A PowerShell Project</a></h3>
+ 
 <a href="https://github.com/sdkallullathil/Powershell_project/blob/main/README.md"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/dfb907c69443a2cd90c222335b556aaf4fc80186/cover.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
