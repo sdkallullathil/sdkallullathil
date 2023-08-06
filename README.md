@@ -12,8 +12,6 @@
 <a href="https://github.com/sdkallullathil/Encription_OpenSSL/tree/main#readme"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/36fcd0457ad5cd781f161a543c32bed36bc8fa7d/crypto.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<br />
-<br />
  <h3><a href="https://github.com/sdkallullathil/Powershell_project/blob/main/README.md"> 3. File Integrity Monitor - A PowerShell Project</a></h3>
  
 <a href="https://github.com/sdkallullathil/Powershell_project/blob/main/README.md"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/dfb907c69443a2cd90c222335b556aaf4fc80186/cover.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
