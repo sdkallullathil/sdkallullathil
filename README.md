@@ -7,6 +7,12 @@
 <br />
 <br />
 
+ <h3><a href="https://github.com/sdkallullathil/cisco_projects/blob/main/README.md"> 2. Exploring Network Security in Diverse Scenarios using Cisco Packet Tracer</a></h3>
+
+<a href="https://github.com/sdkallullathil/cisco_projects/blob/main/README.md"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/153d2fd72f9c6938676186e9e8e315f7b01470f7/cisco_presentation.jpg" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
  <h3><a href="https://github.com/sdkallullathil/Encription_OpenSSL/tree/main#readme"> 2. Securing Password: Strengthening Data Protection with OpenSSL in Kali Linux</a></h3>
 
 <a href="https://github.com/sdkallullathil/Encription_OpenSSL/tree/main#readme"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/36fcd0457ad5cd781f161a543c32bed36bc8fa7d/crypto.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
