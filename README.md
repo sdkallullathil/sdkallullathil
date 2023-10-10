@@ -1,5 +1,18 @@
 <h1><a href="https://www.linkedin.com/in/sangeeth-das-kallullathil/">Sangeeth Das Kallullathil, PhD  </a></h1>
 
+
+<h2>👨‍🎓   Certificates:</h2>
+
+<h3><a href="https://github.com/sdkallullathil/Fields.cert/blob/main/README.md"> 1. The Cyber Connexion Cybersecurity Training Program - The Fields Institute at University of Toronto</a></h3>
+<h3><a href="https://github.com/sdkallullathil/cloud-security/blob/main/README.md"> 2. AWS Academy Graduate - AWS Academy Cloud Security Foundations </a></h3>
+<h3><a href="https://github.com/sdkallullathil/cloud.cert/blob/main/README.md"> 3. AWS Academy Graduate - AWS Academy Cloud Foundations </a></h3>
+<h3><a href="https://github.com/sdkallullathil/wireshark/blob/main/README.md"> 4. Wireshark </a></h3>
+<h3><a href="https://github.com/sdkallullathil/snort/blob/main/README.md"> 5. Snort Intrusion Detection, Rule Writing, and PCAP Analysis </a></h3>
+<h3><a href="https://github.com/sdkallullathil/powershell/blob/main/README.md"> 6. Powershell </a></h3>
+<a href="https://github.com/sdkallullathil/capstone_project#capstone-project"> </a>
+
+
+
 <h2>👨‍💻   Cybersecurity Projects:</h2>
 
  <h3><a href="https://github.com/sdkallullathil/capstone_project#capstone-project/"> 1. An AWS Simulated Hybrid Cloud Architecture with Site-to-Site VPN</a></h3>
