@@ -2,6 +2,7 @@
 
 
 <h2>👨‍🎓   Cybersecurity Certificates:</h2>
+<h3>( Please click to see the certificates )</h3> 
 
 <h3><a href="https://github.com/sdkallullathil/Fields.cert/blob/main/README.md"> 1. The Cyber Connexion Cybersecurity Training Program - The Fields Institute at University of Toronto</a></h3>
 <h3><a href="https://github.com/sdkallullathil/cloud-security/blob/main/README.md"> 2. AWS Academy Graduate - AWS Academy Cloud Security Foundations </a></h3>
@@ -19,6 +20,7 @@
 
 
 <h2>👨‍💻   Cybersecurity Projects:</h2>
+<h3>( Please click to see the detailed report )</h3> 
 
  <h3><a href="https://github.com/sdkallullathil/capstone_project#capstone-project/"> 1. An AWS Simulated Hybrid Cloud Architecture with Site-to-Site VPN</a></h3>
 <a href="https://github.com/sdkallullathil/capstone_project#capstone-project"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/e970bafea2a7e8eafae72a7ba9ea99e5ba46122e/project.png" height="90%" width="90%" alt="Disk Sanitization Steps"/> </a>
