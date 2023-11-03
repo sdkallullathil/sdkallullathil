@@ -15,6 +15,8 @@
 <h3><a href="https://github.com/sdkallullathil/introcyber/blob/main/README.md"> 9. Introduction to Cybersecurity (40 hours THM)</a></h3>
 <h3><a href="https://github.com/sdkallullathil/CyberDefence.cert/blob/main/README.md"> 10. Cyber Defence (48 hours THM)</a></h3>
 <h3><a href="https://github.com/sdkallullathil/presec/blob/main/README.md"> 11. Presecurity (24 hours THM)</a></h3>
+<h3><a href="https://github.com/sdkallullathil/"> 12. CompTIA Security+ (In progress)</a></h3>
+<h3><a href="https://github.com/sdkallullathil/"> 13. Certified in Cybersecurity (CC) from ISC2 (In progress)</a></h3>
 <a href="https://github.com/sdkallullathil/capstone_project#capstone-project"> </a>
 
 
