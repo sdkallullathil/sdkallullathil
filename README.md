@@ -4,21 +4,21 @@
 <h2>👨‍🎓   Cybersecurity Certificates:</h2>
 <h5>( Please click to see the certificates )</h5> 
 
-<h3><a href="https://github.com/sdkallullathil/Fields.cert/blob/main/README.md"> 1. The Cyber Connexion Cybersecurity Training Program - The Fields Institute at University of Toronto</a></h3>
-<h3><a href="https://github.com/sdkallullathil/cloud-security/blob/main/README.md"> 2. AWS Academy Graduate - AWS Academy Cloud Security Foundations </a></h3>
-<h3><a href="https://github.com/sdkallullathil/cloud.cert/blob/main/README.md"> 3. AWS Academy Graduate - AWS Academy Cloud Foundations </a></h3>
-<h3><a href="https://github.com/sdkallullathil/Cicero/blob/main/README.md"> 4. Official CC Course Completion Certificate Official ISC2 CC </a></h3>
-<h3><a href="https://github.com/sdkallullathil/Threat/blob/main/README.md"> 5. Cyber Security Threat Intelligence Researcher </a></h3>
-<h3><a href="https://github.com/sdkallullathil/thm-soc1/blob/main/README.md"> 6. SOC Level - 1 (56 hours THM) </a></h3>
-<h3><a href="https://github.com/sdkallullathil/Pentest-/blob/main/README.md"> 7. CompTIA Pentest+ (32 hours THM) </a></h3>
-<h3><a href="https://github.com/sdkallullathil/wireshark/blob/main/README.md"> 8. Wireshark PCAP Analysis </a></h3>
-<h3><a href="https://github.com/sdkallullathil/snort/blob/main/README.md"> 9. Snort Intrusion Detection, Rule Writing, and PCAP Analysis </a></h3>
-<h3><a href="https://github.com/sdkallullathil/powershell/blob/main/README.md"> 10. Powershell Course</a></h3>
-<h3><a href="https://github.com/sdkallullathil/introcyber/blob/main/README.md"> 11. Introduction to Cybersecurity (40 hours THM)</a></h3>
-<h3><a href="https://github.com/sdkallullathil/CyberDefence.cert/blob/main/README.md"> 12. Cyber Defence (48 hours THM)</a></h3>
-<h3><a href="https://github.com/sdkallullathil/presec/blob/main/README.md"> 13. Presecurity (24 hours THM)</a></h3>
-<h3><a href="https://github.com/sdkallullathil/"> 14. CompTIA Security+ (In progress)</a></h3>
-<h3><a href="https://github.com/sdkallullathil/"> 15. Certified in Cybersecurity (CC) from ISC2 (In progress)</a></h3>
+<h4><a href="https://github.com/sdkallullathil/Fields.cert/blob/main/README.md"> 1. The Cyber Connexion Cybersecurity Training Program - The Fields Institute at University of Toronto</a></h4>
+<h4><a href="https://github.com/sdkallullathil/cloud-security/blob/main/README.md"> 2. AWS Academy Graduate - AWS Academy Cloud Security Foundations </a></h4>
+<h4><a href="https://github.com/sdkallullathil/cloud.cert/blob/main/README.md"> 3. AWS Academy Graduate - AWS Academy Cloud Foundations </a></h4>
+<h4><a href="https://github.com/sdkallullathil/Cicero/blob/main/README.md"> 4. Official CC Course Completion Certificate Official ISC2 CC </a></h4>
+<h4><a href="https://github.com/sdkallullathil/Threat/blob/main/README.md"> 5. Cyber Security Threat Intelligence Researcher </a></h4>
+<h4><a href="https://github.com/sdkallullathil/thm-soc1/blob/main/README.md"> 6. SOC Level - 1 (56 hours THM) </a></h4>
+<h4><a href="https://github.com/sdkallullathil/Pentest-/blob/main/README.md"> 7. CompTIA Pentest+ (32 hours THM) </a></h4>
+<h4><a href="https://github.com/sdkallullathil/wireshark/blob/main/README.md"> 8. Wireshark PCAP Analysis </a></h4>
+<h4><a href="https://github.com/sdkallullathil/snort/blob/main/README.md"> 9. Snort Intrusion Detection, Rule Writing, and PCAP Analysis </a></h4>
+<h4><a href="https://github.com/sdkallullathil/powershell/blob/main/README.md"> 10. Powershell Course</a></h4>
+<h4><a href="https://github.com/sdkallullathil/introcyber/blob/main/README.md"> 11. Introduction to Cybersecurity (40 hours THM)</a></h4>
+<h4><a href="https://github.com/sdkallullathil/CyberDefence.cert/blob/main/README.md"> 12. Cyber Defence (48 hours THM)</a></h4>
+<h4><a href="https://github.com/sdkallullathil/presec/blob/main/README.md"> 13. Presecurity (24 hours THM)</a></h4>
+<h4><a href="https://github.com/sdkallullathil/"> 14. CompTIA Security+ (In progress)</a></h4>
+<h4><a href="https://github.com/sdkallullathil/"> 15. Certified in Cybersecurity (CC) from ISC2 (In progress)</a></h4>
 <a href="https://github.com/sdkallullathil/capstone_project#capstone-project"> </a>
 
 
