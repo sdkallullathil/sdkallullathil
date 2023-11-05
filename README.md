@@ -7,7 +7,7 @@
 <h4><a href="https://github.com/sdkallullathil/Fields.cert/blob/main/README.md"> 1. The Cyber Connexion Cybersecurity Training Program - The Fields Institute at University of Toronto</a></h4>
 <h4><a href="https://github.com/sdkallullathil/cloud-security/blob/main/README.md"> 2. AWS Academy Graduate - AWS Academy Cloud Security Foundations </a></h4>
 <h4><a href="https://github.com/sdkallullathil/cloud.cert/blob/main/README.md"> 3. AWS Academy Graduate - AWS Academy Cloud Foundations </a></h4>
-<h4><a href="https://github.com/sdkallullathil/Cicero/blob/main/README.md"> 4. Official CC Course Completion Certificate Official ISC2 </a></h4>
+<h4><a href="https://github.com/sdkallullathil/Cicero/blob/main/README.md"> 4. Certified in Cybersecurity(CC) Course Completion Certificate Official ISC2 </a></h4>
 <h4><a href="https://github.com/sdkallullathil/Threat/blob/main/README.md"> 5. Cyber Security Threat Intelligence Researcher </a></h4>
 <h4><a href="https://github.com/sdkallullathil/thm-soc1/blob/main/README.md"> 6. SOC Level - 1 (56 hours THM) </a></h4>
 <h4><a href="https://github.com/sdkallullathil/Pentest-/blob/main/README.md"> 7. CompTIA Pentest+ (32 hours THM) </a></h4>
