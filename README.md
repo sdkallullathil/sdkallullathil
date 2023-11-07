@@ -26,7 +26,7 @@
 <h2>👨‍💻   Cybersecurity Projects:</h2>
 <h5>( Please click to see the detailed reports )</h5> 
 
- <h3><a href="https://github.com/sdkallullathil/capstone_project#capstone-project/"> 1. An AWS Simulated Hybrid Cloud Architecture with Site-to-Site VPN</a></h3>
+ <h3><a href="https://github.com/sdkallullathil/capstone_project#capstone-project/"> 1. An AWS Hybrid Cloud Architecture with Site-to-Site VPN</a></h3>
 <a href="https://github.com/sdkallullathil/capstone_project#capstone-project"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/e970bafea2a7e8eafae72a7ba9ea99e5ba46122e/project.png" height="90%" width="90%" alt="Disk Sanitization Steps"/> </a>
 <br />
 <br />
