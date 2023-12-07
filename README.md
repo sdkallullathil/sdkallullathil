@@ -38,18 +38,24 @@
 <br />
 <br />
 
- <h3><a href="https://github.com/sdkallullathil/cisco_projects/blob/main/README.md"> 3. Exploring Network Security in Diverse Scenarios using Cisco Packet Tracer</a></h3>
+ <h3><a href="https://github.com/sdkallullathil/Python_project/blob/main/README.md"> 3. Developing a Client-Server Text-Based Chat Application: Python Project</a></h3>
+
+<a href="https://github.com/sdkallullathil/Python_project/blob/main/README.md"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/127abb8fb88fbc3285ac4e55f167698f6e38336e/Baleto3.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+ <h3><a href="https://github.com/sdkallullathil/cisco_projects/blob/main/README.md"> 4. Exploring Network Security in Diverse Scenarios using Cisco Packet Tracer</a></h3>
 
 <a href="https://github.com/sdkallullathil/cisco_projects/blob/main/README.md"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/153d2fd72f9c6938676186e9e8e315f7b01470f7/cisco_presentation.jpg" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
- <h3><a href="https://github.com/sdkallullathil/Encription_OpenSSL/tree/main#readme"> 4. Securing Password: Strengthening Data Protection with OpenSSL in Kali Linux</a></h3>
+ <h3><a href="https://github.com/sdkallullathil/Encription_OpenSSL/tree/main#readme"> 5. Securing Password: Strengthening Data Protection with OpenSSL in Kali Linux</a></h3>
 
 <a href="https://github.com/sdkallullathil/Encription_OpenSSL/tree/main#readme"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/36fcd0457ad5cd781f161a543c32bed36bc8fa7d/crypto.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- <h3><a href="https://github.com/sdkallullathil/Powershell_project/blob/main/README.md"> 5. File Integrity Monitor - A PowerShell Project</a></h3>
+ <h3><a href="https://github.com/sdkallullathil/Powershell_project/blob/main/README.md"> 6. File Integrity Monitor - A PowerShell Project</a></h3>
  
 <a href="https://github.com/sdkallullathil/Powershell_project/blob/main/README.md"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/dfb907c69443a2cd90c222335b556aaf4fc80186/cover.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
