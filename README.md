@@ -57,7 +57,7 @@
 <br />
  <h3><a href="https://github.com/sdkallullathil/Powershell_project/blob/main/README.md"> 6. File Integrity Monitor - A PowerShell Project</a></h3>
  
-<a href="https://github.com/sdkallullathil/Powershell_project/blob/main/README.md"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/dfb907c69443a2cd90c222335b556aaf4fc80186/cover.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<a href="https://github.com/sdkallullathil/Powershell_project/blob/main/README.md"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/d5dddea0276e4b13451b438981390ccaf9176b19/Presentation1.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
