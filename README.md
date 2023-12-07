@@ -40,7 +40,7 @@
 
  <h3><a href="https://github.com/sdkallullathil/Python_project/blob/main/README.md"> 3. Developing a Client-Server Text-Based Chat Application: Python Project</a></h3>
 
-<a href="https://github.com/sdkallullathil/Python_project/blob/main/README.md"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/127abb8fb88fbc3285ac4e55f167698f6e38336e/Baleto3.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<a href="https://github.com/sdkallullathil/Python_project/blob/main/README.md"><img src="https://github.com/sdkallullathil/sdkallullathil/blob/05ad05a13e5de29e84504259e339d052600e012d/python-project.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
