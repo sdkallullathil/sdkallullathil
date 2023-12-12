@@ -9,7 +9,7 @@
 <h4><a href="https://github.com/sdkallullathil/cloud.cert/blob/main/README.md"> 3. AWS Academy Graduate - AWS Academy Cloud Foundations </a></h4>
 <h4><a href="https://github.com/sdkallullathil/mitre-cert/blob/ef94b55a8bd93bd24f01f78293ebe71ec7e492b1/README.md"> 4. MITRE ATT&CK Defender™ ATT&CK® Threat Hunting </a></h4>
 <h4><a href="https://github.com/sdkallullathil/Fortinet_cert/blob/41904679320642c9703f5008168c34f7f18bec90/README.md"> 5. Fortinet Certified Fundamentals in Cybersecurity </a></h4>
-<h4><a href="https://github.com/sdkallullathil/Fortinet_Associate/blob/main/README.md"> 6. Fortinet Certified Fundamentals in Cybersecurity </a></h4>
+<h4><a href="https://github.com/sdkallullathil/Fortinet_Associate/blob/main/README.md"> 6. Fortinet Certified Associate in Cybersecurity </a></h4>
 
 <h4><a href="https://github.com/sdkallullathil/Threat/blob/main/README.md"> 7. Cyber Security Threat Intelligence Researcher </a></h4>
 <h4><a href="https://github.com/sdkallullathil/python/blob/main/README.md"> 8. Python for Cybersecurity </a></h4>
