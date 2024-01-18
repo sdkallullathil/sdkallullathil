@@ -15,15 +15,16 @@
 <h4><a href="https://github.com/sdkallullathil/python/blob/main/README.md"> 8. Python for Cybersecurity </a></h4>
 <h4><a href="https://github.com/sdkallullathil/Cicero/blob/main/README.md"> 9. Certified in Cybersecurity(CC) Course Completion Certificate Official ISC2 </a></h4>
 <h4><a href="https://github.com/sdkallullathil/thm-soc1/blob/main/README.md"> 10. SOC Level - 1 (56 hours THM) </a></h4>
-<h4><a href="https://github.com/sdkallullathil/Pentest-/blob/main/README.md"> 11. CompTIA Pentest+ (32 hours THM) </a></h4>
-<h4><a href="https://github.com/sdkallullathil/wireshark/blob/main/README.md"> 12. Wireshark PCAP Analysis </a></h4>
-<h4><a href="https://github.com/sdkallullathil/snort/blob/main/README.md"> 13. Snort Intrusion Detection, Rule Writing, and PCAP Analysis </a></h4>
-<h4><a href="https://github.com/sdkallullathil/powershell/blob/main/README.md"> 14. Powershell Course</a></h4>
-<h4><a href="https://github.com/sdkallullathil/introcyber/blob/main/README.md"> 15. Introduction to Cybersecurity (40 hours THM)</a></h4>
-<h4><a href="https://github.com/sdkallullathil/CyberDefence.cert/blob/main/README.md"> 16. Cyber Defence (48 hours THM)</a></h4>
-<h4><a href="https://github.com/sdkallullathil/presec/blob/main/README.md"> 17. Presecurity (24 hours THM)</a></h4>
-<h4><a href="https://github.com/sdkallullathil/"> 18. CompTIA Security+ (In progress)</a></h4>
-<h4><a href="https://github.com/sdkallullathil/"> 19. Certified in Cybersecurity (CC) from ISC2 (In progress)</a></h4>
+<h4><a href="https://github.com/sdkallullathil/soc2/blob/main/README.md"> 11. SOC Level - 2 (86 hours THM) </a></h4>
+<h4><a href="https://github.com/sdkallullathil/defence_thm/blob/main/README.md"> 12. Cyber Defence (48 hours THM) </a></h4>
+<h4><a href="https://github.com/sdkallullathil/Pentest-/blob/main/README.md"> 13. CompTIA Pentest+ (32 hours THM) </a></h4>
+<h4><a href="https://github.com/sdkallullathil/wireshark/blob/main/README.md"> 14. Wireshark PCAP Analysis </a></h4>
+<h4><a href="https://github.com/sdkallullathil/snort/blob/main/README.md"> 15. Snort Intrusion Detection, Rule Writing, and PCAP Analysis </a></h4>
+<h4><a href="https://github.com/sdkallullathil/powershell/blob/main/README.md"> 16. Powershell Course</a></h4>
+<h4><a href="https://github.com/sdkallullathil/introcyber/blob/main/README.md"> 17. Introduction to Cybersecurity (40 hours THM)</a></h4>
+<h4><a href="https://github.com/sdkallullathil/presec/blob/main/README.md"> 18. Presecurity (24 hours THM)</a></h4>
+<h4><a href="https://github.com/sdkallullathil/"> 19. CompTIA Security+ (In progress)</a></h4>
+<h4><a href="https://github.com/sdkallullathil/"> 20. Certified in Cybersecurity (CC) from ISC2 (In progress)</a></h4>
 <a href="https://github.com/sdkallullathil/capstone_project#capstone-project"> </a>
 
 
