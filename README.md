@@ -15,7 +15,7 @@
 <h4><a href="https://github.com/sdkallullathil/python/blob/main/README.md"> 8. Python for Cybersecurity </a></h4>
 <h4><a href="https://github.com/sdkallullathil/Cicero/blob/main/README.md"> 9. Certified in Cybersecurity(CC) Course Completion Certificate Official ISC2 </a></h4>
 <h4><a href="https://github.com/sdkallullathil/thm-soc1/blob/main/README.md"> 10. SOC Level - 1 (56 hours THM) </a></h4>
-<h4><a href="https://github.com/sdkallullathil/soc2/blob/main/README.md"> 11. SOC Level - 2 (86 hours THM) </a></h4>
+<h4><a href="https://github.com/sdkallullathil/soc2/blob/main/README.md"> 11. SOC Level - 2 (74 hours THM) </a></h4>
 <h4><a href="https://github.com/sdkallullathil/defence_thm/blob/main/README.md"> 12. Cyber Defence (48 hours THM) </a></h4>
 <h4><a href="https://github.com/sdkallullathil/Pentest-/blob/main/README.md"> 13. CompTIA Pentest+ (32 hours THM) </a></h4>
 <h4><a href="https://github.com/sdkallullathil/wireshark/blob/main/README.md"> 14. Wireshark PCAP Analysis </a></h4>
